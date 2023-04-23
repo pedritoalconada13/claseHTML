@@ -1,0 +1,30 @@
+#penal {
+    background-image: url(https://icdn.caughtoffside.com/wp-content/uploads/2022/12/Screenshot-2022-12-18-at-18.01.04.jpg);
+}
+#derecha {
+    background-image: url(https://wallpapercave.com/wp/wp8117282.jpg);
+}
+#izquierda {
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.nEQ9mYIc3A2T9n9L6kXfTgHaFa&pid=Api&P=0);
+}
+#medio {
+    background-image: url(https://www.hch.tv/wp-content/uploads/2022/12/Diseno-sin-titulo-2022-12-18T161559.379.png);
+}
+div {
+    margin-top: 15%;
+    text-align: center;
+    font-size: xx-large;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aliceblue;
+}
+a {
+    color: white;
+}
+a:hover {
+color:blueviolet
+}
