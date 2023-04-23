@@ -1,0 +1,33 @@
+.imperio {
+    background-color: red;
+}
+.rebeldes {
+    background-color: blue;
+}
+#vader {
+    font-size: 250%;
+}
+#luke {
+    font-style: italic;
+    color:whitesmoke;
+}
+.soldados {
+    border-style: dashed;
+    letter-spacing:2px;
+}
+.apoyo {
+    text-align: center;
+}
+.naves {
+    text-transform: uppercase;
+    color:whitesmoke;
+}
+#fondo {
+    background-image:url(https://i.pinimg.com/originals/f3/12/cd/f312cd79aac50b6f889eade3817c825a.jpg);
+}
+.letrascolor {
+    color: whitesmoke;
+}
+.droides {
+    color:whitesmoke;
+}
